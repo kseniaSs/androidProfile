@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Portfolio_Subbotina</string>
+    <string name="loading">Загрузка</string>
+    <string name="hello">Привет</string>
+    <string name="edit_message">Меня зовут</string>
+    <string name="title_activity_display_message">Привет</string>
+    <string name="click_me">Нажми меня</string>
+
+    <string name="name">Субботина Ксения Игоревна</string>
+    <string name="student">Студент ИТМО, фронтендер SimpleOne и просто не очень хороший человек</string>
+
+    <string name="school">Училась в школе 9, в городе Перми. В олимпадном классе. Участвовала в множестве олимпиад.
+        Благодаря школе участвовала, будучи студентом 1 курса УрФУ, в ACM ICPC на российском уровне.</string>
+    <string name="university">В данный момент стараюсь закончить 4й курс ИТМО.
+        В данный момент уже 3 года не участвую в олимпиадах. Очень грустно стало.</string>
+
+    <string name="work">Уже почти 2 года работаю в компании SimpleOne. В начале в течение нескольких месяцев работала с php.
+        Но потом меня перевели в разряд frontend-разработки, чему я рада. Разрабатывала под такими фреймворками, как Vue и React.
+        Мне очень нравится, что за работу иногда платят.</string>
+
+    <string name="cat">Стикеры с котами в телеграмме - это одно из моих достижений. Мне кажется, у меня есть стикер с котом на
+        любой случай.</string>
+
+    <string name="ear">Также я никуда не выхожу без своих наушников. В моем плейлисте есть абсолютно все - начиная с Еду в Магадан,
+        заканчивая Вивальди.</string>
+
+    <string name="youtube">С утра я почти всегда смотрю youtube. Так как у меня почти нет свободного времени. Я смотрю видео параллельно с тем,
+        как собираюсь куда-нибудь.</string>
+
+    <string name="contact">Здесь будет что-нибудь клевое или нет, если мне станет влом.</string>
+
+    <string name="item1">Познакомимся?</string>
+    <string name="item2">Моя учеба</string>
+    <string name="item3">Моя работа</string>
+    <string name="item4">Мои хобби</string>
+    <string name="item5">Контакты</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+</resources>

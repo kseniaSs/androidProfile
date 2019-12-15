@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/nav_home"
+    android:id="@+id/mobile_navigation">
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.portfolio_subbotina.ui.home.HomeFragment"
+        android:label="@string/item1"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_lessons"
+        android:name="com.example.portfolio_subbotina.ui.lessons.LessonsFragment"
+        android:label="@string/item2"
+        tools:layout="@layout/fragment_lessons" />
+    <fragment
+        android:id="@+id/nav_work"
+        android:name="com.example.portfolio_subbotina.ui.work.WorkFragment"
+        android:label="@string/item3"
+        tools:layout="@layout/fragment_work" />
+    <fragment
+        android:id="@+id/nav_hobbies"
+        android:name="com.example.portfolio_subbotina.ui.hobbies.HobbiesFragment"
+        android:label="@string/item4"
+        tools:layout="@layout/fragment_hobbies" />
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.portfolio_subbotina.ui.contact.ContactFragments"
+        android:label="@string/item5"
+        tools:layout="@layout/fragment_contact" />
+</navigation>
